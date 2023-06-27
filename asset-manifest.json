@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1004d265.css",
+    "main.js": "/static/js/main.3c3b69d3.js",
+    "static/js/787.97a945da.chunk.js": "/static/js/787.97a945da.chunk.js",
+    "static/media/primeicons.svg": "/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/todo-empty-state-detail.png": "/static/media/todo-empty-state-detail.6dc38bf3169f41c9faac.png",
+    "static/media/color.png": "/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/index.html",
+    "static/media/icon-plust.svg": "/static/media/icon-plust.90823b0882edfeec158931c24682afd8.svg",
+    "static/media/az.svg": "/static/media/az.44fe00fb499f56883b1d2dadadb70b66.svg",
+    "static/media/za.svg": "/static/media/za.e526550e55925f165f468227c1292e6b.svg",
+    "static/media/terbaru.svg": "/static/media/terbaru.014960872aa5f6a4eccf3cf138be18de.svg",
+    "static/media/terlama.svg": "/static/media/terlama.d0f7fa5a006704687bac7b6325a262fb.svg",
+    "static/media/belum-selesai.svg": "/static/media/belum-selesai.e033964a0e699367ffa564bcd93f3fe4.svg",
+    "static/media/tabler_plus.svg": "/static/media/tabler_plus.672c1ccca9fa813a9e8cd463b62d7917.svg",
+    "static/media/tabler_arrows-sort.svg": "/static/media/tabler_arrows-sort.a8d1b8202cd2eaac6fb5ae7e6f2eb8e3.svg",
+    "static/media/Ellipse 445.svg": "/static/media/Ellipse 445.411fb128364d584980e6b4612dc0df00.svg",
+    "static/media/blue.svg": "/static/media/blue.5d1b91fcf723cfcf4e1825e42f19f1e0.svg",
+    "static/media/medium.svg": "/static/media/medium.5b2de3cb8fb7ec120c632bf492168e06.svg",
+    "static/media/purple.svg": "/static/media/purple.b422fd4ea11e193375f76a57ff95f672.svg",
+    "static/media/yellow.svg": "/static/media/yellow.f22ede4ea3b02ca82203d5b3cde8823a.svg",
+    "main.1004d265.css.map": "/static/css/main.1004d265.css.map",
+    "main.3c3b69d3.js.map": "/static/js/main.3c3b69d3.js.map",
+    "787.97a945da.chunk.js.map": "/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1004d265.css",
+    "static/js/main.3c3b69d3.js"
+  ]
+}
